@@ -17,9 +17,9 @@
 
  	![frequency table 1](images/freq_table_1.png)   	![frequency_table_2](images/freq_table_2.png)
 
-4.   *Plot gene1 levels as a function of &quot;gender&quot;.*
+4.  *Plot gene1 levels as a function of &quot;gender&quot;.*
 
- 	![Gene 1 levels](images/plot4.png)
+	![Gene 1 levels](images/plot4.png)
 
 5. *Test the normality of the expression levels of the 20 genes (use function apply). How many genes are not normally distributed and which are these genes?*
 
