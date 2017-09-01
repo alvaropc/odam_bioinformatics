@@ -1,0 +1,10 @@
+Package: AlvaroPonce
+Type: Package
+Title: A confortable way to manage lists
+Version: 1.0
+Date: 2016-06-19
+Author: Alvaro Ponce Cabrera
+Maintainer: Alvaro Ponce Cabrera <alvaro.ponce@uvic.cat>
+Description: With this package you can manage lists as python does in a confortable way. lappend function let you append objects to the list, lremove let you remove objects in the whole list or in a specific index, and lcounc let you count objects inside the whole list or in a specific index.
+License:  GPL (>= 2)
+
